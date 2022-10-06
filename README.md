@@ -1,5 +1,5 @@
 # C/C++ and git assignments
-DDL: Oct. 10<sup>th</sup>
+DDL: Oct. 20<sup>th</sup>
 Remember to set it to **PRIVATE**. 
 > This doc is revised on 05/10.
 ## Git Assignment
