@@ -23,3 +23,10 @@ The manual is in Chinese unfortunately. But I have translated the relavent part 
 Bonus (not counted):
 
 The skeleton code is pretty basic. You can come up with more sophisticated logic to deal with the data under real-world situations. i.e. the connector disconnected unexpectly, the data goes out of range etc.
+
+Hint: you may find something useful at the end of the user manual.
+
+![image](https://user-images.githubusercontent.com/33616271/194757542-e7b8a8ba-61cc-442d-ad77-56759a6456d1.png)
+
+![image](https://user-images.githubusercontent.com/33616271/194757519-6262df52-ce97-4a10-baea-8d3467d0664e.png)
+
