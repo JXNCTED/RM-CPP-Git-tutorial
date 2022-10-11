@@ -4,7 +4,7 @@ Topics: recursion, scope, overloading
 
 ---
 
-Write a function to calculate the value of [Ackermann function](https://en.wikipedia.org/wiki/Ackermann_function). If only one integer $m$ is given, calculate $ark(m, 0)$.
+Write a function to calculate the value of [Ackermann function](https://en.wikipedia.org/wiki/Ackermann_function). If only one integer $m$ is given, calculate $ack(m, 0)$.
 
 $$
 \begin{align}
